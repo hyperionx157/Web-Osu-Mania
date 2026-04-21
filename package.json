@@ -119,8 +119,4 @@
   },
   "overrides": {
     "undici": "^6.24.0"
-  },
-  "scripts": {
-    "build": "opennextjs-cloudflare build",
-    "preview": "opennextjs-cloudflare preview"
-}
+  }
